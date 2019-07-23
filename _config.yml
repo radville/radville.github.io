@@ -1,11 +1,11 @@
 # Site settings
 author: Laura Radville
-title: 
+title: Laura's Blog
 header-img: img/home-bg.png
 email: laura.radville@gmail.com
 copyright_name: Laura Radville
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey in becoming a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  radville
