@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "RESTful Routes"
-date:       2019-09-06 13:24:32 +0000
+date:       2019-09-06 09:24:33 -0400
 permalink:  restful_routes
 ---
 
