@@ -38,6 +38,6 @@ Then add the following code where you want your calendar:
 ```
 
 This will display a calendar like this:
-![]([Imgur](https://i.imgur.com/x9DEPe8.png)
+![Calendar Screenshot](https://i.imgur.com/x9DEPe8.png)
 
 
