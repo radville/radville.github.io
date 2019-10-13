@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A really simple_calendar"
-date:       2019-10-13 12:37:44 +0000
+date:       2019-10-13 08:37:45 -0400
 permalink:  a_really_simple_calendar
 ---
 
@@ -38,6 +38,6 @@ Then add the following code where you want your calendar:
 ```
 
 This will display a calendar like this:
-![](https://imgur.com/x9DEPe8)
+![]([Imgur](https://i.imgur.com/x9DEPe8.png)
 
 
